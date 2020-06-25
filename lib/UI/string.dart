@@ -1,0 +1,31 @@
+class AllString{
+static String hellothere = "Hello There";
+static String loginorsignuptocontinue = "Login or Signup to Continue";
+static String emailaddress = "Email Address";
+static String password = "Password";
+static String forgetpassword = "Forget Password?";
+static String login = "Login";
+static String donthaveanaccount = "Don't have an account?";
+static String signup = "  Sign Up";
+static String setupyouraccount = "Setup Your";
+static String account = "Account.";
+static String fullname = "Full Name";
+static String confirmpassword = "Confirm password";
+static String back = "Back";
+static String continnue = "Continue";
+static String enteryourmobilenumber = "Enter Your Mobile no.";
+static String wewillsendverification = "We will send you 4-digit verification code";
+static String mobilenumber = "Mobile Number";
+static String getotp = "GET OTP";
+static String otpverification = "OTP Verification";
+static String entertheotp = "Enter the OTP send to";
+static String number = "+91 7856xxxx85";
+static String verify = "VERIFY & PROCEED";
+static String dontreceiveotp = "Did't receive OTP?";
+static String resend = "  RESEND";
+static String enternewpass = "Enter Your New";
+static String newpass = "New Password";
+static String confirmpass = "Confirm Password";
+static String submit = "Submit";
+static String hithere = "Hi there!";
+}
